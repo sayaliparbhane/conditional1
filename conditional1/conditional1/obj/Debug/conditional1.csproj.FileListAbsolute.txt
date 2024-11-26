@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\conditional1\conditional1\bin\Debug\conditional1.exe.config
+C:\Users\ACER\source\repos\conditional1\conditional1\bin\Debug\conditional1.exe
+C:\Users\ACER\source\repos\conditional1\conditional1\bin\Debug\conditional1.pdb
+C:\Users\ACER\source\repos\conditional1\conditional1\obj\Debug\conditional1.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\conditional1\conditional1\obj\Debug\conditional1.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\conditional1\conditional1\obj\Debug\conditional1.exe
+C:\Users\ACER\source\repos\conditional1\conditional1\obj\Debug\conditional1.pdb
